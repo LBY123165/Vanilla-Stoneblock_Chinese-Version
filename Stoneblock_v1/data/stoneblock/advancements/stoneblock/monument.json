@@ -4,10 +4,10 @@
       "item": "minecraft:prismarine"
     },
     "title": {
-      "translate": "Ocean of Stone"
+      "translate": "石头中的海洋？"
     },
     "description": {
-      "translate": "Locate a buried Ocean Monument"
+      "translate": "找到被石头掩埋的海底神殿"
     },
     "frame": "goal",
     "show_toast": true,

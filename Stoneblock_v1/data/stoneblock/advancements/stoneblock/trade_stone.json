@@ -4,10 +4,10 @@
         "item": "minecraft:emerald"
       },
       "title": {
-        "translate": "Rocks to Riches"
+        "translate": "岩石中的财富"
       },
       "description": {
-        "translate": "Trade your stone to a Mason Villager"
+        "translate": "从石匠手中交易得到绿宝石"
       },
       "frame": "task",
       "show_toast": true,

@@ -4,10 +4,10 @@
       "item": "minecraft:gold_block"
     },
     "title": {
-      "translate": "Gilded Age"
+      "translate": "鎏金时代"
     },
     "description": {
-      "translate": "Kill a Zombified Piglin, and enter the Gilded Age"
+      "translate": "杀死一只僵尸猪灵来进入鎏金时代"
     },
     "frame": "task",
     "show_toast": true,

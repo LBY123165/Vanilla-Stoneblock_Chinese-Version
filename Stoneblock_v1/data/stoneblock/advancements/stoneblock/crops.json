@@ -4,10 +4,10 @@
 			"item": "minecraft:baked_potato"
 		},
 		"title": {
-			"translate": "Finally, some Good Food"
+			"translate": "我们终于有吃的了！"
 		},
 		"description": {
-			"translate": "Plant Wheat, Carrots and Potatoes to quit Rotton Flesh"
+			"translate": "种植小麦、马铃薯以及胡萝卜"
 		},
 		"frame": "task",
 		"show_toast": true,

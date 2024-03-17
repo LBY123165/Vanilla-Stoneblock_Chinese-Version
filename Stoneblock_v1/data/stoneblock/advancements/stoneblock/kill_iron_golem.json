@@ -4,10 +4,10 @@
       "item": "minecraft:iron_block"
     },
     "title": {
-      "translate": "Iron Age"
+      "translate": "铁器时代"
     },
     "description": {
-      "translate": "Kill an Iron Golem, and enter the Iron Age"
+      "translate": "击杀一只铁傀儡来进入铁器时代"
     },
     "frame": "goal",
     "show_toast": true,

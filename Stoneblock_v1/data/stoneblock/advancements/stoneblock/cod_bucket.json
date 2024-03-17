@@ -4,10 +4,10 @@
       "item": "minecraft:cod_bucket"
     },
     "title": {
-      "translate": "Smells Fishy"
+      "translate": "它闻起来是腥的"
     },
     "description": {
-      "translate": "Trade with a Fisherman Villager to get your first source of Water and a Fishy Friend",
+      "translate": "与渔夫交易来获取一个装着鳕鱼的水桶",
       "color": "dark_purple"
     },
     "frame": "goal",

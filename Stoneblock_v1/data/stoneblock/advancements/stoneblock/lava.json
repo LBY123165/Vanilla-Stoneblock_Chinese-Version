@@ -4,10 +4,10 @@
       "item": "minecraft:lava_bucket"
     },
     "title": {
-      "translate": "Make it Double!"
+      "translate": "加倍！"
     },
     "description": {
-      "translate": "Stand in a Lava Cauldron while also holding a Bucket of Lava"
+      "translate": "站在装有岩浆的炼药锅中的同时手持一桶岩浆"
     },
     "frame": "task",
     "show_toast": true,

@@ -4,10 +4,10 @@
       "item": "minecraft:golden_apple"
     },
     "title": {
-      "translate": "Forbidden Fruit"
+      "translate": "昂贵的果实"
     },
     "description": {
-      "translate": "Use your hard earned Gold Ingots to craft a Golden Apple",
+      "translate": "使用你辛苦得来的金锭制作一个金苹果",
       "color": "dark_purple"
     },
     "frame": "challenge",

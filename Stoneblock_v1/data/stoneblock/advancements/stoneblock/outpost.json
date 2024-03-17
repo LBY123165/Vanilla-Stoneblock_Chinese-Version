@@ -4,10 +4,10 @@
       "item": "minecraft:crossbow"
     },
     "title": {
-      "translate": "Pompeii"
+      "translate": "这是掠夺者？"
     },
     "description": {
-      "translate": "Find the remains of a Pillager Outpost covered in stone"
+      "translate": "找到被石头掩埋的掠夺者哨塔"
     },
     "frame": "goal",
     "show_toast": true,

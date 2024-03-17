@@ -4,10 +4,10 @@
       "item": "minecraft:grass_block"
     },
     "title": {
-      "translate": "Hey! You Took My Lawn!"
+      "translate": "嘿！你拿走了我的草方块！"
     },
     "description": {
-      "translate": "Take back a Grass Block from an Enderman"
+      "translate": "从末影人的手中获得一个草方块"
     },
     "frame": "goal",
     "show_toast": true,

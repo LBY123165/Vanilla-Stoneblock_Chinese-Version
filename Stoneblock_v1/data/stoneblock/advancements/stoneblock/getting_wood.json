@@ -4,10 +4,10 @@
       "item": "minecraft:flowering_azalea"
     },
     "title": {
-      "translate": "Getting Wood"
+      "translate": "得到木头"
     },
     "description": {
-      "translate": "Acquire your first Oak Log with the help of azaleas"
+      "translate": "在杜鹃花丛的帮助下获得第一个橡木日(原)志(木)"
     },
     "frame": "goal",
     "show_toast": true,

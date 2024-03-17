@@ -4,10 +4,10 @@
       "item": "minecraft:rooted_dirt"
     },
     "title": {
-      "translate": "Root Removal"
+      "translate": "根部移除"
     },
     "description": {
-      "translate": "Extract the root from Rooted Dirt to get a much more useful Dirt"
+      "translate": "通过使用锄头右击缠根泥土来获得干净的泥土"
     },
     "frame": "task",
     "show_toast": true,

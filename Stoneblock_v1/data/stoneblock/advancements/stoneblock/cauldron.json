@@ -4,10 +4,10 @@
       "item": "minecraft:cauldron"
     },
     "title": {
-      "translate": "Lava Multiplier"
+      "translate": "岩浆倍增装置！"
     },
     "description": {
-      "translate": "Craft a Cauldron to grow your Lava supply"
+      "translate": "制作一个炼药锅"
     },
     "frame": "goal",
     "show_toast": true,

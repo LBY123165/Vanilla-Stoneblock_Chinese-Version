@@ -4,10 +4,10 @@
       "item": "minecraft:ender_pearl"
     },
     "title": {
-      "translate": "Glitch in the Matrix"
+      "translate": "矩阵的缺陷"
     },
     "description": {
-      "translate": "Attempt to escape the confines of Stoneblock",
+      "translate": "尝试逃离石头世界的束缚",
       "color": "dark_purple"
     },
     "frame": "challenge",

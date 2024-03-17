@@ -4,10 +4,10 @@
       "item": "minecraft:ender_eye"
     },
     "title": {
-      "translate": "We're in the Endgame Now"
+      "translate": "我们已经进入了末影时代！"
     },
     "description": {
-      "translate": "Craft an Eye of Ender and prepare for the long dig to the Stronghold"
+      "translate": "制作好末影之眼来为前往要塞的长途旅行做好准备"
     },
     "frame": "goal",
     "show_toast": true,

@@ -1,2 +1,2 @@
 # Vanilla-Stoneblock
-Experience the Stoneblock challenge, without all the mods.
+无需任何模组，体验原版的石头世界

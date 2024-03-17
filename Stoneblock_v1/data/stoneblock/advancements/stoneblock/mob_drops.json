@@ -4,10 +4,10 @@
       "item": "minecraft:rotten_flesh"
     },
     "title": {
-      "translate": "Scavenger"
+      "translate": "清道夫"
     },
     "description": {
-      "translate": "Collect all Common Mob Drops from Overworld Hostile Mobs"
+      "translate": "收集所有在主世界生成的怪物的掉落物"
     },
     "frame": "goal",
     "show_toast": true,

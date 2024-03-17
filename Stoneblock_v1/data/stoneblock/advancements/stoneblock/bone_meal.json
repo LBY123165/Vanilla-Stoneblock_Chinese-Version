@@ -4,10 +4,10 @@
             "item": "minecraft:moss_block"
         },
         "title": {
-            "translate": "Green Thumb"
+            "translate": "绿色的手指"
         },
         "description": {
-            "translate": "Spread your Moss with Bone Meal"
+            "translate": "用骨粉来催化你的苔藓块"
         },
         "frame": "task",
         "show_toast": true,

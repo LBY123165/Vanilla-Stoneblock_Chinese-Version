@@ -4,10 +4,10 @@
       "item": "minecraft:spruce_planks"
     },
     "title": {
-      "translate": "Medusa's Lair"
+      "translate": "美杜莎的巢穴"
     },
     "description": {
-      "translate": "Locate a buried Witch Hut"
+      "translate": "找到被掩埋的女巫小屋"
     },
     "frame": "goal",
     "show_toast": true,

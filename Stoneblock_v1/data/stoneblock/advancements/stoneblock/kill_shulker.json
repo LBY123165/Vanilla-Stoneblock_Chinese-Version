@@ -4,10 +4,10 @@
       "item": "minecraft:shulker_box"
     },
     "title": {
-      "translate": "Box Elimination"
+      "translate": "箱子的消失"
     },
     "description": {
-      "translate": "Kill a Shulker"
+      "translate": "杀死一只潜影贝"
     },
     "frame": "goal",
     "show_toast": true,

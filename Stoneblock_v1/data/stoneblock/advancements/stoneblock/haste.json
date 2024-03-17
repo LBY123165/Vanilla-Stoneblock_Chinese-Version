@@ -4,10 +4,10 @@
       "item": "minecraft:beacon"
     },
     "title": {
-      "translate": "I am Speed"
+      "translate": "我就是速度之王！"
     },
     "description": {
-      "translate": "Get Haste II from a Beacon to shred this Stone World apart"
+      "translate": "从信标中获得急迫效果"
     },
     "frame": "challenge",
     "show_toast": true,

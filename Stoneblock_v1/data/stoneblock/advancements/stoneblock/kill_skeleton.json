@@ -4,10 +4,10 @@
       "item": "minecraft:skeleton_skull"
     },
     "title": {
-      "translate": "I've Got a Bone to Pick"
+      "translate": "我要拿走你的骨头！"
     },
     "description": {
-      "translate": "Dig far enough for a Skeleton to spawn and kill it for a bone"
+      "translate": "挖掘足够远的距离来生成骷髅并杀死他们"
     },
     "frame": "goal",
     "show_toast": true,

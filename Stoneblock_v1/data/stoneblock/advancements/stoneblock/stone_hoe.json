@@ -4,10 +4,10 @@
       "item": "minecraft:stone_hoe"
     },
     "title": {
-      "translate": "Budget Haste"
+      "translate": "廉价的速度"
     },
     "description": {
-      "translate": "Acquire the optimal tool for Moss mining"
+      "translate": "获得开采苔藓的最佳工具"
     },
     "frame": "task",
     "show_toast": true,

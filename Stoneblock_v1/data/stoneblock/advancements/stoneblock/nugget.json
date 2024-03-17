@@ -4,10 +4,10 @@
       "item": "minecraft:gold_nugget"
     },
     "title": {
-      "translate": "I Can't Eat This!"
+      "translate": "我吃不了他们！"
     },
     "description": {
-      "translate": "Smelt Mob Armor into a both types of Nuggets"
+      "translate": "通过熔炼铁、金制品来获得铁、金粒"
     },
     "frame": "task",
     "show_toast": true,

@@ -4,10 +4,10 @@
       "item": "minecraft:egg"
     },
     "title": {
-      "translate": "Which Came First?"
+      "translate": "先有哪一个？"
     },
     "description": {
-      "translate": "Obtain an Egg from a Normal Chicken"
+      "translate": "获得一个鸡蛋"
     },
     "frame": "goal",
     "show_toast": true,

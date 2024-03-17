@@ -4,10 +4,10 @@
       "item": "minecraft:bamboo_planks"
     },
     "title": {
-      "translate": "Dedicated to the Craft"
+      "translate": "致力于工艺"
     },
     "description": {
-      "translate": "Collect all possible Wood Plank types"
+      "translate": "收集所有可获取到的木板"
     },
     "frame": "challenge",
     "show_toast": true,

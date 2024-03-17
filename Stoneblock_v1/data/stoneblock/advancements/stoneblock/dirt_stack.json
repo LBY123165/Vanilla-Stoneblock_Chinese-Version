@@ -4,10 +4,10 @@
       "item": "minecraft:dirt"
     },
     "title": {
-      "translate": "Dirt Farmer"
+      "translate": "泥土制造机"
     },
     "description": {
-      "translate": "Farm a stack of Dirt Blocks to spawn animals and grow crops"
+      "translate": "获得一整组的泥土方块"
     },
     "frame": "task",
     "show_toast": true,

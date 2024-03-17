@@ -4,10 +4,10 @@
       "item": "minecraft:prismarine_crystals"
     },
     "title": {
-      "translate": "Specimen Collector"
+      "translate": "样本收藏家"
     },
     "description": {
-      "translate": "Collect all Overworld Hostile Mob Drops",
+      "translate": "收集所有种类的敌对生物的掉落物",
       "color": "dark_purple"
     },
     "frame": "challenge",

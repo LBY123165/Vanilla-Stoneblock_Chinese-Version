@@ -4,10 +4,10 @@
       "item": "minecraft:apple"
     },
     "title": {
-      "translate": "Doctors, Beware!"
+      "translate": "医生！离我远点！"
     },
     "description": {
-      "translate": "Obtain an Apple from an Oak Tree"
+      "translate": "从树上获得一个苹果"
     },
     "frame": "task",
     "show_toast": true,

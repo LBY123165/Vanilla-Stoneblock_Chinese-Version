@@ -4,10 +4,10 @@
       "item": "minecraft:dead_bush"
     },
     "title": {
-      "translate": "Shearious Dedication"
+      "translate": "被剪切的救赎"
     },
     "description": {
-      "translate": "Save the one and only Dead Bush",
+      "translate": "剪下你仅有的那棵枯死的灌木",
       "color": "dark_purple"
     },
     "frame": "challenge",

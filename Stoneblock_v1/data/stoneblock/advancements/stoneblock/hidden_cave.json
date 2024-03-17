@@ -4,10 +4,10 @@
       "item": "minecraft:pointed_dripstone"
     },
     "title": {
-      "translate": "Secrets of the Cave"
+      "translate": "洞穴的秘密"
     },
     "description": {
-      "translate": "Discover Stoneblock's bonus cave, located east of spawn"
+      "translate": "在出生点的东面发现并到达奖励洞穴"
     },
     "frame": "task",
     "show_toast": true,

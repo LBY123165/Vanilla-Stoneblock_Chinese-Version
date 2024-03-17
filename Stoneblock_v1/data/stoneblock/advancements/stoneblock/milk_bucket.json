@@ -4,10 +4,10 @@
       "item": "minecraft:milk_bucket"
     },
     "title": {
-      "translate": "Vitamin D"
+      "translate": "维生素D"
     },
     "description": {
-      "translate": "Drink some Milk to cure your Vitamin Deficiency from lack of sunlight and poor diet"
+      "translate": "喝下一桶牛奶来治疗因为缺乏光照和饮食不当造成的维生素缺乏症（省流：喝桶奶）"
     },
     "frame": "goal",
     "show_toast": true,
